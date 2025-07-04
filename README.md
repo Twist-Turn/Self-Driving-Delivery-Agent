@@ -1,10 +1,6 @@
 # DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences
 
-### [Project Page](https://sled-group.github.io/driVLMe/) | [Paper](https://arxiv.org/abs/2406.03008) | [Video](https://youtu.be/Ep5fYLGkmsg)
 
-Yidong Huang, Jacob Sansom, Ziqiao Ma, Felix Gervits, Joyce Chai  
-University of Michigan, ARL  
-IROS 2024
 
 ![Method](/method.jpg)
 
