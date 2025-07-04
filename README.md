@@ -5,7 +5,7 @@
 ![Method](/method.jpg)
 
 ## Setup
-The code is adopted from [video-chatgpt](https://github.com/mbzuai-oryx/Video-ChatGPT). We recommend setting up a conda environment for the project:
+The code is adopted from [video-chatgpt](https://github.com/mbzuai-oryx/Video-ChatGPT). I recommend setting up a conda environment for the project:
 ```shell
 conda create --name=drivlme python=3.10
 conda activate drivlme
@@ -128,7 +128,7 @@ for RfN task.
 
 ## Acknowledgement
 
-We thank the awesome research works [Video-Chatgpt](https://github.com/mbzuai-oryx/Video-ChatGPT), [DriveGPT4](https://tonyxuqaq.github.io/projects/DriveGPT4/), [DriveMLM](https://arxiv.org/abs/2312.09245)
+I thank the awesome research works [Video-Chatgpt](https://github.com/mbzuai-oryx/Video-ChatGPT), [DriveGPT4](https://tonyxuqaq.github.io/projects/DriveGPT4/), [DriveMLM](https://arxiv.org/abs/2312.09245)
 
 
 
