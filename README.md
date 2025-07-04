@@ -124,18 +124,7 @@ python evaluation/diag_action_acc.py
 for RfN task.
 
 
-## Citation
-```bibtex
-@misc{huang2024drivlmeenhancingllmbasedautonomous,
-      title={DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences}, 
-      author={Yidong Huang and Jacob Sansom and Ziqiao Ma and Felix Gervits and Joyce Chai},
-      year={2024},
-      eprint={2406.03008},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2406.03008}, 
-}
-```
+
 
 ## Acknowledgement
 
