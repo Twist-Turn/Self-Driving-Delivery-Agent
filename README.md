@@ -10,7 +10,7 @@ The code is adopted from [video-chatgpt](https://github.com/mbzuai-oryx/Video-Ch
 conda create --name=drivlme python=3.10
 conda activate drivlme
 
-git clone git@github.com:sled-group/driVLMe.git
+git clone [https://github.com/Twist-Turn/Self-Driving-Delivery-Agent.git]
 cd driVLMe
 pip install -r requirements.txt
 pip install -e .
